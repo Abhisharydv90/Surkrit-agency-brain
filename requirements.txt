@@ -1,6 +1,0 @@
-fastapi
-uvicorn
-crewai
-litellm
-langchain-groq
-pydantic
